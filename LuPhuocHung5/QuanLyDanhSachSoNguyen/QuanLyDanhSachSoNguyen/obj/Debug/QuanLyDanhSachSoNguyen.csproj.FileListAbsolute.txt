@@ -1,0 +1,9 @@
+D:\C#\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\bin\Debug\QuanLyDanhSachSoNguyen.exe.config
+D:\C#\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\bin\Debug\QuanLyDanhSachSoNguyen.exe
+D:\C#\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\bin\Debug\QuanLyDanhSachSoNguyen.pdb
+D:\C#\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\obj\Debug\QuanLyDanhSachSoNguyen.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\obj\Debug\QuanLyDanhSachSoNguyen.exe
+D:\C#\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\obj\Debug\QuanLyDanhSachSoNguyen.pdb
+D:\LuPhuocHung5\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\bin\Debug\QuanLyDanhSachSoNguyen.exe.config
+D:\LuPhuocHung5\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\obj\Debug\QuanLyDanhSachSoNguyen.exe
+D:\LuPhuocHung5\QuanLyDanhSachSoNguyen\QuanLyDanhSachSoNguyen\obj\Debug\QuanLyDanhSachSoNguyen.pdb

@@ -1,0 +1,18 @@
+D:\C#\doi tuong\doi tuong\bin\Debug\doi tuong.exe.config
+D:\C#\doi tuong\doi tuong\bin\Debug\doi tuong.exe
+D:\C#\doi tuong\doi tuong\bin\Debug\doi tuong.pdb
+D:\C#\doi tuong\doi tuong\obj\Debug\doi tuong.csprojResolveAssemblyReference.cache
+D:\C#\doi tuong\doi tuong\obj\Debug\doi tuong.exe
+D:\C#\doi tuong\doi tuong\obj\Debug\doi tuong.pdb
+C:\Users\Dell\Downloads\luphuochung2\3 doi tuong\doi tuong\bin\Debug\doi tuong.exe.config
+C:\Users\Dell\Downloads\luphuochung2\3 doi tuong\doi tuong\obj\Debug\doi tuong.exe
+C:\Users\Dell\Downloads\luphuochung2\3 doi tuong\doi tuong\obj\Debug\doi tuong.pdb
+C:\Users\Dell\Downloads\luphuochung2\3 doi tuong\doi tuong\bin\Debug\doi tuong.exe
+C:\Users\Dell\Downloads\luphuochung2\3 doi tuong\doi tuong\bin\Debug\doi tuong.pdb
+C:\Users\Dell\Downloads\luphuochung2\3 doi tuong\doi tuong\obj\Debug\doi tuong.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\luphuochung4\3 doi tuong\doi tuong\bin\Debug\doi tuong.exe.config
+C:\Users\Dell\Downloads\luphuochung4\3 doi tuong\doi tuong\obj\Debug\doi tuong.exe
+C:\Users\Dell\Downloads\luphuochung4\3 doi tuong\doi tuong\obj\Debug\doi tuong.pdb
+D:\luphuochung4\luphuochung4\3 doi tuong\doi tuong\bin\Debug\doi tuong.exe.config
+D:\luphuochung4\luphuochung4\3 doi tuong\doi tuong\obj\Debug\doi tuong.exe
+D:\luphuochung4\luphuochung4\3 doi tuong\doi tuong\obj\Debug\doi tuong.pdb
